@@ -1,0 +1,7 @@
+[submodule "dotbot-firmware"]
+	path = dotbot-firmware
+	url = https://github.com/swarmit-sensys/DotBot-firmware
+    branch = main
+[submodule "mari"]
+	path = mari
+	url = https://github.com/swarmit-sensys/mari
